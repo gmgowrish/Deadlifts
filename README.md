@@ -12,6 +12,32 @@ This project utilizes computer vision and machine learning to analyze data using
 
 To set up the project environment, you need to install the required Python packages. Run the following command:
 
+## Create virtual environment
+
+```
+python -m venv .venv
+```
+
+## Activate virtual environment
+
+For windows
+```
+.venv/Scripts/activate 
+```
+
+For linux
+```
+source .venv/bin/activate
+```
+
+## Install requirements
+
+```
+pip install -r requirements.txt
+```
+
+
+
 ```bash
 pip install opencv-python mediapipe numpy
 ```
