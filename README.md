@@ -31,12 +31,6 @@ source .venv/bin/activate
 ```
 
 
-```bash
-pip install opencv-python mediapipe numpy
-```
-
-### OR
-
 ## Install requirements
 
 ```
