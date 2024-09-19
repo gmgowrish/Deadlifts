@@ -30,6 +30,13 @@ For linux
 source .venv/bin/activate
 ```
 
+
+```bash
+pip install opencv-python mediapipe numpy
+```
+
+### OR
+
 ## Install requirements
 
 ```
@@ -38,9 +45,6 @@ pip install -r requirements.txt
 
 
 
-```bash
-pip install opencv-python mediapipe numpy
-```
 
 ## Usage
 
